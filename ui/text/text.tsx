@@ -1,14 +1,15 @@
 import React from 'react';
-import {
-  Text as BaseText,
-  TextProps as BaseTextProps,
-  StyleSheet,
-} from 'react-native';
+import { Text as BaseText, StyleSheet } from 'react-native';
 
-export type TextProps = BaseTextProps;
+export type TextProps = {
+  /**
+   * a text to be rendered in the component.
+   */
+  text: string;
+};
 
-export function Text({ children }: TextProps) {
-  return <BaseText style={styles.text}>{children}</BaseText>;
+export function Text({ text }: TextProps) {
+  return <BaseText style={styles.text}>{text}</BaseText>;
 }
 
 const styles = StyleSheet.create({
