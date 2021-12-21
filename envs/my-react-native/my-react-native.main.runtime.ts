@@ -23,8 +23,8 @@ export class MyReactNativeMain {
        * Your config gets merged with the defaults
        */
 
-      // react.overrideTsConfig(tsconfig),
-      // react.useWebpack({
+      // reactNative.overrideTsConfig(tsconfig),
+      // reactNative.useWebpack({
       //   previewConfig: [previewConfigTransformer],
       //   devServerConfig: [devServerConfigTransformer],
       // }),
