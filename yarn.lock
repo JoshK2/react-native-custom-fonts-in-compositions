@@ -1922,13 +1922,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/jest@npm:26.0.20":
-  version: 26.0.20
-  resolution: "@types/jest@npm:26.0.20::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40types%2Fjest%2F-%2Fjest-26.0.20.tgz"
+"@types/jest@npm:^26.0.0":
+  version: 26.0.24
+  resolution: "@types/jest@npm:26.0.24::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40types%2Fjest%2F-%2Fjest-26.0.24.tgz"
   dependencies:
     jest-diff: ^26.0.0
     pretty-format: ^26.0.0
-  checksum: db7730d2d70d2cdaef0ade7a5185fad844b21df827eafdd1690ce8053c399277ecce6b274ffd649e7a38008e192e8f0eb3ecc296b69e75407e30a9c8388d0d5c
+  checksum: ae39675412f08d884926254e9b12bfd2b5a4e4d204c94d3148cb942174a474930d0c60540133c968f22241d4712b7940c96cbc883096eb326a4d5b206fb78bd0
   languageName: node
   linkType: hard
 
@@ -7890,7 +7890,7 @@ __metadata:
     "@teambit/harmony": 0.2.11
     "@teambit/react.templates.themes.theme": 0.0.4
     "@testing-library/react-native": 9.0.0
-    "@types/jest": 26.0.20
+    "@types/jest": ^26.0.0
     "@types/node": 12.20.4
     "@types/react": ^17.0.8
     "@types/react-dom": ^17.0.5
@@ -7898,7 +7898,6 @@ __metadata:
     "@types/testing-library__jest-dom": 5.9.5
     "@typescript-eslint/eslint-plugin": 4.29.3
     babel-jest: 27.4.5
-    classnames: 2.3.1
     core-js: ^3.0.0
     eslint-import-resolver-node: 0.3.6
     eslint-plugin-import: 2.22.1
@@ -8623,6 +8622,8 @@ __metadata:
 "text-4ef857@workspace:ui/text":
   version: 0.0.0-use.local
   resolution: "text-4ef857@workspace:ui/text"
+  peerDependencies:
+    react: 17.0.2
   languageName: unknown
   linkType: soft
 
