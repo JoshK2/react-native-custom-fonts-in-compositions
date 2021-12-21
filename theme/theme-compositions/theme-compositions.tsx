@@ -1,15 +1,13 @@
 import React, { HTMLAttributes } from 'react';
-import classNames from 'classnames';
 
 export type ThemeCompositionsProps = HTMLAttributes<HTMLDivElement>;
 
 export function ThemeCompositions({
   children,
-  className,
   ...rest
 }: ThemeCompositionsProps) {
   return (
-    <div className={classNames(className)} {...rest}>
+    <div {...rest}>
       <link rel="preconnect" href="https://fonts.googleapis.com" />
       <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
       <link
