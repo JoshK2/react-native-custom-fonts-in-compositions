@@ -77,7 +77,7 @@
       // uses the custom env
       "company.scope/envs/my-react-native": {}
       // uncomment the line below if you remove the custom env and remove the line above
-      // "teambit.react/react": {},
+      // "teambit.react/react-native": {}
     },
     "{theme/**}": {
       "teambit.react/react": {}

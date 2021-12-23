@@ -1992,12 +1992,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-native@npm:0.66.9":
-  version: 0.66.9
-  resolution: "@types/react-native@npm:0.66.9::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40types%2Freact-native%2F-%2Freact-native-0.66.9.tgz"
+"@types/react-native@npm:^0.64.1":
+  version: 0.64.19
+  resolution: "@types/react-native@npm:0.64.19::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40types%2Freact-native%2F-%2Freact-native-0.64.19.tgz"
   dependencies:
     "@types/react": "*"
-  checksum: fad569bd3ed9275e01cd1fed57e6a001b25cf3b2d1946b68b83d3dc77678ac914c8764e0a36b6e9dc2fa01dd9300f5687f50280fabc8fb76146eee73664929bc
+  checksum: e6d4608d64387d4b261412d7deb242942ba37313e5284743869d9dd29c2c0d1d3f5c5b1066f736967d6e0970f9c163d5447b7c1e9f356935d5aa66487a43e961
   languageName: node
   linkType: hard
 
@@ -7894,7 +7894,7 @@ __metadata:
     "@types/node": 12.20.4
     "@types/react": ^17.0.8
     "@types/react-dom": ^17.0.5
-    "@types/react-native": 0.66.9
+    "@types/react-native": ^0.64.1
     "@types/testing-library__jest-dom": 5.9.5
     "@typescript-eslint/eslint-plugin": 4.29.3
     babel-jest: 27.4.5
@@ -8392,6 +8392,17 @@ __metadata:
   languageName: node
   linkType: hard
 
+"stam-1356ac@workspace:scope/ui/stam":
+  version: 0.0.0-use.local
+  resolution: "stam-1356ac@workspace:scope/ui/stam"
+  peerDependencies:
+    react: ^16.8.0 || ^17.0.0
+    react-dom: ^16.8.0 || ^17.0.0
+    react-native: ^0.64.1
+    react-native-web: ^0.16.0
+  languageName: unknown
+  linkType: soft
+
 "state-toggle@npm:^1.0.0":
   version: 1.0.3
   resolution: "state-toggle@npm:1.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2Fstate-toggle%2F-%2Fstate-toggle-1.0.3.tgz"
@@ -8623,7 +8634,10 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "text-4ef857@workspace:ui/text"
   peerDependencies:
-    react: 17.0.2
+    react: ^16.8.0 || ^17.0.0
+    react-dom: ^16.8.0 || ^17.0.0
+    react-native: ^0.64.1
+    react-native-web: ^0.16.0
   languageName: unknown
   linkType: soft
 
