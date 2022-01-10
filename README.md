@@ -5,8 +5,8 @@ This workspace is created using [React Native workspace template](https://github
 
 1. A basic React Native component that render text with a custom font.  
    Created using React Native component template `bit create react-native text ` [code](https://bit.dev/teambit/react/react-native/~code/templates/react-native-component/index.ts), [read more](https://harmony-docs.bit.dev/building-with-bit/creating-components/).
-2. A React component that is using as a theme component that load the custom font, this component includes two examples of loading, one with Link and the other with ttf file, [read more](https://harmony-docs.bit.dev/building-with-bit/creating-components/).  
-   Created using React Native env template `bit create react-native-env my-react-native` [code](https://bit.dev/teambit/react/react-native/~code/templates/react-native-env/index.ts).
+2. A React component that is using as a theme component that load the custom font, this component includes two examples of loading, one with Link and the other with ttf file.  
+   Created using React Native env template `bit create react-native-env my-react-native` [code](https://bit.dev/teambit/react/react-native/~code/templates/react-native-env/index.ts), [read more](https://harmony-docs.bit.dev/building-with-bit/creating-components/).
 3. A custom React Native env that use the theme component to wrap the compositions of the components that are using this env.
 
 ## Start the workspace
