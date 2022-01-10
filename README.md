@@ -11,6 +11,8 @@ This workspace is created using [React Native workspace template](https://github
 
 ## Start the workspace
 
+To run this workspace, Bit version 0.0.603 or higher is required.
+
 ```bash
 bit install
 bit compile

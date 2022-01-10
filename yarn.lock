@@ -1534,122 +1534,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@teambit/base-ui.theme.brand-definition@npm:1.0.0":
-  version: 1.0.0
-  resolution: "@teambit/base-ui.theme.brand-definition@npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40teambit%2Fbase-ui.theme.brand-definition%2F-%2Fbase-ui.theme.brand-definition-1.0.0.tgz"
-  dependencies:
-    core-js: ^3.0.0
-  peerDependencies:
-    react: ^16.8.0 || ^17.0.0
-    react-dom: ^16.8.0 || ^17.0.0
-  checksum: 5e2b06f04b21bbafaab2394cf6943421d62196eb7bf113d5bf42fb54e2e020d7bbacb80ea3654117c87cfc30a37952a37184926ece4506f9369e43932fdd2da6
-  languageName: node
-  linkType: hard
-
-"@teambit/base-ui.theme.color-definition@npm:1.0.1":
-  version: 1.0.1
-  resolution: "@teambit/base-ui.theme.color-definition@npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40teambit%2Fbase-ui.theme.color-definition%2F-%2Fbase-ui.theme.color-definition-1.0.1.tgz"
-  dependencies:
-    "@teambit/base-ui.theme.colors": 1.0.0
-    core-js: ^3.0.0
-  peerDependencies:
-    react: ^16.8.0 || ^17.0.0
-    react-dom: ^16.8.0 || ^17.0.0
-  checksum: 805e8ca89a28dd2c89931d24f1487dd1bfb4c09d44a6f9ae73e6b922d86e6a859444d13482571807a8169942c852742302b40be8be81e95c2cd18df7dfc43701
-  languageName: node
-  linkType: hard
-
-"@teambit/base-ui.theme.colors@npm:1.0.0":
-  version: 1.0.0
-  resolution: "@teambit/base-ui.theme.colors@npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40teambit%2Fbase-ui.theme.colors%2F-%2Fbase-ui.theme.colors-1.0.0.tgz"
-  dependencies:
-    core-js: ^3.0.0
-  peerDependencies:
-    react: ^16.8.0 || ^17.0.0
-    react-dom: ^16.8.0 || ^17.0.0
-  checksum: e6af15d53e53c1e72f3875db31fbb030346bb27e5377d0e46e1faf1c8a119b21391dc3103eb97f16f57fb47131c02dd219dc8da43619c9b9a24e9b3e36b02574
-  languageName: node
-  linkType: hard
-
-"@teambit/base-ui.theme.fonts.book@npm:1.0.0":
-  version: 1.0.0
-  resolution: "@teambit/base-ui.theme.fonts.book@npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40teambit%2Fbase-ui.theme.fonts.book%2F-%2Fbase-ui.theme.fonts.book-1.0.0.tgz"
-  dependencies:
-    core-js: ^3.0.0
-  peerDependencies:
-    react: ^16.8.0 || ^17.0.0
-    react-dom: ^16.8.0 || ^17.0.0
-  checksum: 248e420376019f9fb8538fddd47b38800c16b61ebceb10f8ba26cd77671cb40b2b39eeba1d968fd526c42515a0c225e331c901cb1b432aa229c969a927b06b0b
-  languageName: node
-  linkType: hard
-
-"@teambit/base-ui.theme.fonts.roboto@npm:1.0.0":
-  version: 1.0.0
-  resolution: "@teambit/base-ui.theme.fonts.roboto@npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40teambit%2Fbase-ui.theme.fonts.roboto%2F-%2Fbase-ui.theme.fonts.roboto-1.0.0.tgz"
-  dependencies:
-    core-js: ^3.0.0
-  peerDependencies:
-    react: ^16.8.0 || ^17.0.0
-    react-dom: ^16.8.0 || ^17.0.0
-  checksum: 76e5178f2921db75978d19ea87a38d2e6fdee4ebc9752dfc15ce583c6f2ce32cf1efee05c3ca504dea6384964dbc607f1ff04c437435b1b6aa63091083748c78
-  languageName: node
-  linkType: hard
-
-"@teambit/base-ui.theme.heading-margin-definition@npm:1.0.0":
-  version: 1.0.0
-  resolution: "@teambit/base-ui.theme.heading-margin-definition@npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40teambit%2Fbase-ui.theme.heading-margin-definition%2F-%2Fbase-ui.theme.heading-margin-definition-1.0.0.tgz"
-  dependencies:
-    core-js: ^3.0.0
-  peerDependencies:
-    react: ^16.8.0 || ^17.0.0
-    react-dom: ^16.8.0 || ^17.0.0
-  checksum: 22b23a0c2299e8334aed07a12fb85d2b59eeaf100e5537d9d84aa5326a30972e8949db645417d445e86ce3a39c18b5721b895f884cdbcdc89e1eb95567046b54
-  languageName: node
-  linkType: hard
-
-"@teambit/base-ui.theme.shadow-definition@npm:1.0.0":
-  version: 1.0.0
-  resolution: "@teambit/base-ui.theme.shadow-definition@npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40teambit%2Fbase-ui.theme.shadow-definition%2F-%2Fbase-ui.theme.shadow-definition-1.0.0.tgz"
-  dependencies:
-    core-js: ^3.0.0
-  peerDependencies:
-    react: ^16.8.0 || ^17.0.0
-    react-dom: ^16.8.0 || ^17.0.0
-  checksum: 74c044e2754890cec84bca1e7f5f71ec7701a438246748802f7fadfef2f912a709f0ce4490d1093bf5dbbd76bfef11c8a84f5a1769ddf8f1b5a16df09e4ba648
-  languageName: node
-  linkType: hard
-
-"@teambit/base-ui.theme.size-definition@npm:1.0.0":
-  version: 1.0.0
-  resolution: "@teambit/base-ui.theme.size-definition@npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40teambit%2Fbase-ui.theme.size-definition%2F-%2Fbase-ui.theme.size-definition-1.0.0.tgz"
-  dependencies:
-    core-js: ^3.0.0
-  peerDependencies:
-    react: ^16.8.0 || ^17.0.0
-    react-dom: ^16.8.0 || ^17.0.0
-  checksum: 0855108c3510cd0bed73dc6332c7292d6d1dd7ab9c6db95dce43949d522007baf712cf45d1cb6ce9e8debcc03d980ac61956852c6179d57e2c03eafe7d858c85
-  languageName: node
-  linkType: hard
-
-"@teambit/base-ui.theme.theme-provider@npm:1.0.1":
-  version: 1.0.1
-  resolution: "@teambit/base-ui.theme.theme-provider@npm:1.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40teambit%2Fbase-ui.theme.theme-provider%2F-%2Fbase-ui.theme.theme-provider-1.0.1.tgz"
-  dependencies:
-    "@teambit/base-ui.theme.brand-definition": 1.0.0
-    "@teambit/base-ui.theme.color-definition": 1.0.1
-    "@teambit/base-ui.theme.fonts.book": 1.0.0
-    "@teambit/base-ui.theme.heading-margin-definition": 1.0.0
-    "@teambit/base-ui.theme.shadow-definition": 1.0.0
-    "@teambit/base-ui.theme.size-definition": 1.0.0
-    classnames: ^2.2.6
-    core-js: ^3.0.0
-  peerDependencies:
-    react: ^16.8.0 || ^17.0.0
-    react-dom: ^16.8.0 || ^17.0.0
-  checksum: 431f846ca638892dedc3232d45c2a09a6e77266272119f0ad2104708ed96eb688e8f819abaaef7638e8d8dd844319540474be104dda4d5fdda50f17a146a282d
-  languageName: node
-  linkType: hard
-
 "@teambit/dependencies.modules.packages-excluder@npm:0.0.48":
   version: 0.0.48
   resolution: "@teambit/dependencies.modules.packages-excluder@npm:0.0.48::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40teambit%2Fdependencies.modules.packages-excluder%2F-%2Fdependencies.modules.packages-excluder-0.0.48.tgz"
@@ -1657,18 +1541,6 @@ __metadata:
     "@teambit/legacy": 1.0.189
     react: 17.0.2
   checksum: d21c302d02cb672f58973cc07f3d0127f3f54be36252bc345191d1a82fd2321192308cece608683057a3ef2d935f26b606d754a39542aadbcfc738391f69f599
-  languageName: node
-  linkType: hard
-
-"@teambit/design.theme.icons-font@npm:1.0.0":
-  version: 1.0.0
-  resolution: "@teambit/design.theme.icons-font@npm:1.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40teambit%2Fdesign.theme.icons-font%2F-%2Fdesign.theme.icons-font-1.0.0.tgz"
-  dependencies:
-    core-js: ^3.0.0
-  peerDependencies:
-    react: ^16.8.0 || ^17.0.0
-    react-dom: ^16.8.0 || ^17.0.0
-  checksum: ae43bef65572bb2d55c424dcf4809588442ef3120cd84d87dc88941f8d88bfe7cfc082533e7ff6c80b502d7fcd0a7442d23e5b5f5dd7f585aaa9368fd06b07f5
   languageName: node
   linkType: hard
 
@@ -1682,35 +1554,6 @@ __metadata:
     react: ^16.8.0 || ^17.0.0
     react-dom: ^16.8.0 || ^17.0.0
   checksum: b1bd7e204b02fa11513806ac72e282854b89eb551442fa424ac23096ef88df461ed3a8e6af9a3ed61a8ec56ad504b064f0fb30a7e5027b99d9452fc978f1a0a1
-  languageName: node
-  linkType: hard
-
-"@teambit/documenter.theme.theme-compositions@npm:4.1.1":
-  version: 4.1.1
-  resolution: "@teambit/documenter.theme.theme-compositions@npm:4.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40teambit%2Fdocumenter.theme.theme-compositions%2F-%2Fdocumenter.theme.theme-compositions-4.1.1.tgz"
-  dependencies:
-    "@teambit/design.theme.icons-font": 1.0.0
-    "@teambit/documenter.theme.theme-context": 4.0.3
-    core-js: ^3.0.0
-  peerDependencies:
-    react: ^16.8.0 || ^17.0.0
-    react-dom: ^16.8.0 || ^17.0.0
-  checksum: 593a610fbe75c06124ed4f8c959902720b884aecb031b8d5a02a947a57db799659927f06f26b9bb7a84e972f41fa8c2aac5699a40e71fbc4aad6ff7949bfdca0
-  languageName: node
-  linkType: hard
-
-"@teambit/documenter.theme.theme-context@npm:4.0.3":
-  version: 4.0.3
-  resolution: "@teambit/documenter.theme.theme-context@npm:4.0.3::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40teambit%2Fdocumenter.theme.theme-context%2F-%2Fdocumenter.theme.theme-context-4.0.3.tgz"
-  dependencies:
-    "@teambit/base-ui.theme.fonts.roboto": 1.0.0
-    "@teambit/base-ui.theme.theme-provider": 1.0.1
-    classnames: ^2.2.6
-    core-js: ^3.0.0
-  peerDependencies:
-    react: ^16.8.0 || ^17.0.0
-    react-dom: ^16.8.0 || ^17.0.0
-  checksum: 956e0cc2795d58ae3409f93b78581079686232d3068f4331cecdf9638d1279dfc98d22f6709d70f78c1034c6c4b40b0118e68ad879b927646211ef61d57fcbad
   languageName: node
   linkType: hard
 
@@ -1922,13 +1765,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/jest@npm:^26.0.0":
-  version: 26.0.24
-  resolution: "@types/jest@npm:26.0.24::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40types%2Fjest%2F-%2Fjest-26.0.24.tgz"
+"@types/jest@npm:26.0.20":
+  version: 26.0.20
+  resolution: "@types/jest@npm:26.0.20::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40types%2Fjest%2F-%2Fjest-26.0.20.tgz"
   dependencies:
     jest-diff: ^26.0.0
     pretty-format: ^26.0.0
-  checksum: ae39675412f08d884926254e9b12bfd2b5a4e4d204c94d3148cb942174a474930d0c60540133c968f22241d4712b7940c96cbc883096eb326a4d5b206fb78bd0
+  checksum: db7730d2d70d2cdaef0ade7a5185fad844b21df827eafdd1690ce8053c399277ecce6b274ffd649e7a38008e192e8f0eb3ecc296b69e75407e30a9c8388d0d5c
   languageName: node
   linkType: hard
 
@@ -7884,13 +7727,12 @@ __metadata:
     "@babel/runtime": 7.12.18
     "@teambit/dependencies.modules.packages-excluder": 0.0.48
     "@teambit/design.ui.external-link": 0.0.344
-    "@teambit/documenter.theme.theme-compositions": 4.1.1
     "@teambit/documenter.ui.copy-box": 4.1.1
     "@teambit/eslint-config-bit-react": ~0.0.367
     "@teambit/harmony": 0.2.11
     "@teambit/react.templates.themes.theme": 0.0.4
     "@testing-library/react-native": 9.0.0
-    "@types/jest": ^26.0.0
+    "@types/jest": 26.0.20
     "@types/node": 12.20.4
     "@types/react": ^17.0.8
     "@types/react-dom": ^17.0.5
@@ -8622,8 +8464,6 @@ __metadata:
 "text-4ef857@workspace:ui/text":
   version: 0.0.0-use.local
   resolution: "text-4ef857@workspace:ui/text"
-  peerDependencies:
-    react: 17.0.2
   languageName: unknown
   linkType: soft
 
